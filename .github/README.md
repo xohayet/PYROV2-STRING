@@ -8,7 +8,7 @@ This is a Simple Pyrogram String Session Generator Repository, You Can Generate 
 
 ### Just copy & paste it to termux
 ```
-apt update -y && apt install git python -y && cd && rm -rf pyrov2 && git clone https://github.com/AdityaHalder/PYROV2-STRING pyrov2 && cd pyrov2 && pip3 install -r requirements.txt && python main.py
+apt update -y && apt install git python -y && cd && rm -rf pyrov2 && git clone https://github.com/NotReallyHridoy/PYROV2-STRING pyrov2 && cd pyrov2 && pip3 install -r requirements.txt && python main.py
 ```
 
 ## If You Like This Then Must Give A Star To This Repository, Thank You.
