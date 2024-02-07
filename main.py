@@ -3,9 +3,9 @@ import asyncio
 
 from pyrogram import Client
 
-name = "Nikki"
-api_id = 19181985
-api_hash = "a2b23ca3a1c9b5dab4bf42dda7de4e79"
+name = "Rekha"
+api_id = 24906331
+api_hash = "866e8e4637fb269388b50202fb0f169c"
 
 
 async def init():
